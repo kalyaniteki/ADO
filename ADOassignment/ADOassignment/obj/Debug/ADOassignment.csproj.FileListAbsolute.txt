@@ -1,0 +1,6 @@
+D:\kalyani\ADO\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe.config
+D:\kalyani\ADO\ADOassignment\ADOassignment\bin\Debug\ADOassignment.exe
+D:\kalyani\ADO\ADOassignment\ADOassignment\bin\Debug\ADOassignment.pdb
+D:\kalyani\ADO\ADOassignment\ADOassignment\obj\Debug\ADOassignment.csprojAssemblyReference.cache
+D:\kalyani\ADO\ADOassignment\ADOassignment\obj\Debug\ADOassignment.exe
+D:\kalyani\ADO\ADOassignment\ADOassignment\obj\Debug\ADOassignment.pdb

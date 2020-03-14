@@ -1,0 +1,6 @@
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.exe.config
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.exe
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\bin\Debug\HandsOnADO.pdb
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.csprojAssemblyReference.cache
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.exe
+D:\kalyani\ADO\HandsOnADO\HandsOnADO\obj\Debug\HandsOnADO.pdb
